@@ -1,6 +1,6 @@
 # Image to Audio
 
-This application allows users to upload images and detect if there's a fire in the image using a pre-trained convolutional neural network model.
+Create a story from an image
 
 ## Usage
 
